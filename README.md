@@ -1,3 +1,3 @@
 # Coursera_coursers
 
-any updates are the copies of Coursera that I gratuded in any types of courses.
+Any updates are from the Coursera that I graduated in any types of courses.
