@@ -1,2 +1,0 @@
-Please read the gif file named "not of Basic Python" that will remain any Reserved Words in Python as you won't be using those words for varibles. 
-As I saved it at the same file.
