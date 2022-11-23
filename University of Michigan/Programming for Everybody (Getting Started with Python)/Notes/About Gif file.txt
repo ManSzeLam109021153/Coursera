@@ -1,0 +1,3 @@
+"Reserved Word" will not be used for veraibles in Python. 
+If you forgot which words are Reserved Word, you could check it out in the gif file that will remain you which words are reseved word and which word aren't.
+The file named is Reserved_Word.
