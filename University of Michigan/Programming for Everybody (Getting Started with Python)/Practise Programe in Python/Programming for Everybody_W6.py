@@ -1,3 +1,4 @@
+#使用 def 函式
 def computepay(h, e):
     payment=(h*e)-(h-40)*e+((h-40)*e*1.5)
     return payment
