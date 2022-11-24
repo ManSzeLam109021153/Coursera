@@ -9,6 +9,9 @@ while True:
     except:
         print('Invalid input')
         continue
-
-print("Maximum", max(num))
-print("Min", min(num))
+    else:
+        num=int(num)
+largest = max(num)
+smallest = min(num)
+print("Maximum is", largest)
+print("Minimum is", smallest)
