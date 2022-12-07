@@ -1,3 +1,4 @@
+#using a file name: mbox-short.txt
 fname = input("Enter file name: ")
 try:
     fhand = open(fname)
