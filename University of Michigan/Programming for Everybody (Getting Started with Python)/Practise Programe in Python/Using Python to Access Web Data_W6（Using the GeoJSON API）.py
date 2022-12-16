@@ -19,6 +19,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 while True:
+    #University of Mumbai
     address = input('Enter location: ')
     if len(address) < 1: break
 
